@@ -69,7 +69,7 @@
                 "editor.document_highlight.read_background": "#74ade81a",
                 "editor.document_highlight.write_background": "#555a6366",
                 "terminal.background": "#1F1F21FF",
-                "terminal.foreground": "#abb2bfff",
+                "terminal.foreground": "#DCE0E5FF",
                 "terminal.bright_foreground": "#dce0e5ff",
                 "terminal.dim_foreground": "#636d83ff",
                 "terminal.ansi.black": "#282c34ff",
@@ -250,7 +250,7 @@
                         "font_weight": null
                     },
                     "keyword": {
-                        "color": "#896ED4FF",
+                        "color": "#826BB5FF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -270,7 +270,7 @@
                         "font_weight": null
                     },
                     "namespace": {
-                        "color": "#67DB88FF",
+                        "color": "#9E292BFF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -345,7 +345,7 @@
                         "font_weight": null
                     },
                     "string": {
-                        "color": "#82E060FF",
+                        "color": "#72BF56FF",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -401,11 +401,6 @@
                     },
                     "variable": {
                         "color": "#DCE0E5FF",
-                        "font_style": null,
-                        "font_weight": null
-                    },
-                    "variable.special": {
-                        "color": "#bf956aff",
                         "font_style": null,
                         "font_weight": null
                     },
