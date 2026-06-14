@@ -1,0 +1,7 @@
+id = "color-dark"
+name = "Color Dark"
+version = "0.0.1"
+schema_version = 1
+authors = [""]
+description = ""
+repository = "https://github.com/your-name/my-zed-extension"
